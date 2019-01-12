@@ -1,1 +1,1 @@
-module tools/cmds/bind9gen
+module github.com/tadvi/bind9gen
